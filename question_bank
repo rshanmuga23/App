@@ -1,0 +1,10 @@
+question_data = [
+    {"text":"What is CPU ?\na.)Central Processing Unit\nb.)Central Processor Unit\nc.)Central Print Unit\n","answer":"a"},
+    {"text":"What is GPU ?\na.)Graphics Processor Unit\nb.)Graphics Processing Unit\nc.)Graphics Print Unit\n","answer":"b"},
+    {"text":"What is RAM ?\na.)Random Access Memory\nb.)Read Access Memory\nc.)Random Accessed Memory\n","answer":"a"},
+    {"text":"What is ROM ?\na.)Random Only Memory\nb.)Read Once Memory\nc.)Read Only Memory\n","answer":"c"},
+    {"text":"What is V-RAM ?\na.)Video-RAM\nb.)Virtual-RAM\nc.)VFX-RAM\n","answer":"b"}, 
+    {"text":"What is PS4 ?\na.)Play Station\nb.)Power Supply\nc.)Power Station\n","answer":"a"},
+    {"text":"What is PSU ?\na.)Play Station Unit\nb.)Power Supply Unit\nc.)Power Station Unit\n","answer":"b"},
+    {"text":"What is SIM ?\na.)Subscriber Index Module\nb.)Satellite Index Module\nc.)Seller Index Module\n","answer":"a"} 
+]
